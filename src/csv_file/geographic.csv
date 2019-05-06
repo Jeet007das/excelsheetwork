@@ -1,0 +1,6 @@
+"id","version","code","created_by","created_date","description","updated_date","name","parent","type","updated_by"
+1,0,"IND","","2017-08-27 11:06:42","India","2017-08-27 11:06:42","India",,0,""
+2,0,"EAST","admin","2017-08-27 11:46:00","East Region","2017-08-27 11:46:00","East",1,2,""
+3,0,"WEST","admin","2017-08-27 11:46:37","West Region","2017-08-27 11:46:37","West",1,2,""
+4,0,"SOUTH","admin","2017-08-27 11:47:07","South Region","2017-08-27 11:47:07","South",1,2,""
+5,0,"NORTH","admin","2017-08-27 11:47:46","North Region","2017-08-27 11:47:46","North",1,2,""
